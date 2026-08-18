@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shrimann</h1>
+<h3 align="center">Building tools that keep businesses in sync</h3>
 
-<!--
-**Shrixanny/Shrixanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On
+**Pump Pro** — a business management suite that syncs entries across multiple devices in real time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+Agentic AI — building autonomous, tool-using AI systems.
+
+### 🎨 Looking for Help With
+UI/UX design — always open to feedback or collaboration on making interfaces cleaner and more intuitive.
+
+### 💬 Ask Me About
+Database management.
+
+### 📫 Reach Me
+📧 shrimannbansal@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrixanny&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
